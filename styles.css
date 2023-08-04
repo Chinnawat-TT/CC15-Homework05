@@ -10,6 +10,7 @@
   border-radius: 5px;
   width: 160px;
   position: relative;
+  box-shadow: 4px 4px 8px;
 }
 
 .card img {
